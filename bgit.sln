@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bgit", "bgit\bgit.csproj", "{FB17FD7A-D4F0-496E-8132-B493B0987E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB17FD7A-D4F0-496E-8132-B493B0987E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB17FD7A-D4F0-496E-8132-B493B0987E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB17FD7A-D4F0-496E-8132-B493B0987E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB17FD7A-D4F0-496E-8132-B493B0987E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {266ACFFD-3C34-4802-B8B0-5AB2A7983FDB}
+	EndGlobalSection
+EndGlobal
